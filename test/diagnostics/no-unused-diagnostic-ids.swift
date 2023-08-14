@@ -1,0 +1,1 @@
+// Checks for stale diagnostics in 'Diagnostics*.def' files.
